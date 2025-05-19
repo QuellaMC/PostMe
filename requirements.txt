@@ -1,0 +1,8 @@
+python-dotenv
+feedparser
+googlenewsdecoder
+newspaper3k
+openai>=1.0
+requests
+schedule
+lxml_html_clean
